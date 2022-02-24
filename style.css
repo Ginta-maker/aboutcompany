@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgba(221, 80, 29, 0.26);
+}
+.top{
+    text-align: center;
+}
+.logo{
+    color: white;
+    background-color: salmon;
+    display:inline;
+    font-size: 38px;
+    font-weight: bolder;
+    padding: 8px;
+    margin-top: 16px;
+}
+#navigation a{
+    padding: 8px;
+    color: rgb(141, 53, 57);
+}
+.navigation a:hover{
+    color: salmon;
+}
+.logo-name{
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    background-color: brown;
+    margin: 3px;
+}
+#image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+h2 {
+     color: rgb(180, 58, 14);
+}
